@@ -2,4 +2,10 @@
 Este vai ser um esboço de um site para eu tomar como referencia
 
 ## Tarefas
-t
+
+## Icones
+:gun:nova funcionalidade
+
+:beatle: debug
+:shell:atualização
+:up: release
